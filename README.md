@@ -1,5 +1,9 @@
 # REACT-COMPLETE-GUIDE-CURSO-STYLING
-TUTORIAL DE REACT MANEJO ESTILOS
+TUTORIAL DE REACT MANEJO ESTILOS.
+Manejo de estilos:
+- Estilos - uso dinámico de estilos
+- Componentes de estilos
+- Uso de Modulo CSS
 
 ## Salida 
 ![Captura](https://user-images.githubusercontent.com/7141537/153025693-8a5aaf55-39f1-4f3d-81c0-29c32f0a3327.PNG)
